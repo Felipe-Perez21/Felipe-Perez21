@@ -32,3 +32,6 @@ https://www.tablesgenerator.com/markdown_tables
 
 Repositorio de git-fundamentals:
 https://github.com/tectijuana/git-fundamentals-Felipe-Perez21
+
+Generador de datos:
+https://mockaroo.com/
