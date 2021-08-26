@@ -31,4 +31,4 @@ Crear Tablas:
 https://www.tablesgenerator.com/markdown_tables
 
 Repositorio de git-fundamentals:
-https://github.com/tectijuana/git-fundamentals-Felipe-Perez21ql
+https://github.com/tectijuana/git-fundamentals-Felipe-Perez21
