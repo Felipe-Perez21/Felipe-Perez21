@@ -22,7 +22,7 @@ Actualmente estoy estudiando Ing. en Tecnologías de la Información y Comunicac
 
 
 
-
+###Enlaces mi interes: 
 
 Guia Markdown:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
@@ -35,3 +35,6 @@ https://github.com/tectijuana/git-fundamentals-Felipe-Perez21
 
 Generador de datos:
 https://mockaroo.com/
+
+Datos abiertos México:
+https://datos.gob.mx/
