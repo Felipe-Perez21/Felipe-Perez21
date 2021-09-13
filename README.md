@@ -22,7 +22,7 @@ Actualmente estoy estudiando Ing. en Tecnologías de la Información y Comunicac
 
 
 
-###Enlaces mi interes: 
+### Enlaces de mi interés: 
 
 Guia Markdown:
 https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf
